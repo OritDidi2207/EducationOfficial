@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "2c29NyMKLxuhgPGR+ah/u/eLoqY7Z2w/YngIjo4MDXsm114BGZ4IHfH4Jbw+60i7BT5iF95wyCzuFmXRSUXd2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\3base284\\source\\repos\\EducationOfficalTests\\EducationOfficalTests\\EducationOfficalTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\3base284\\.nuget\\packages\\microsoft.codecoverage\\17.9.0\\microsoft.codecoverage.17.9.0.nupkg.sha512",
+    "C:\\Users\\3base284\\.nuget\\packages\\microsoft.net.test.sdk\\17.9.0\\microsoft.net.test.sdk.17.9.0.nupkg.sha512",
+    "C:\\Users\\3base284\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.9.0\\microsoft.testplatform.objectmodel.17.9.0.nupkg.sha512",
+    "C:\\Users\\3base284\\.nuget\\packages\\microsoft.testplatform.testhost\\17.9.0\\microsoft.testplatform.testhost.17.9.0.nupkg.sha512",
+    "C:\\Users\\3base284\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\3base284\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\3base284\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\3base284\\.nuget\\packages\\selenium.webdriver\\4.18.1\\selenium.webdriver.4.18.1.nupkg.sha512",
+    "C:\\Users\\3base284\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
